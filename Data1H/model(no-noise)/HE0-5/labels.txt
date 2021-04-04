@@ -1,0 +1,11 @@
+akiec
+bcc
+bkl
+df
+healthy
+lupus
+mel
+nv
+ringworm
+scalp_infections
+vasc
