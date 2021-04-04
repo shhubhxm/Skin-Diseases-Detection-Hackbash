@@ -4,9 +4,6 @@ We are team technophiles and participated in 24hrs hackathon organized by DSC. O
 
 Our college name: Pandit Deendayal Energy University(PDEU)
 
-Team Members: Rushabh Thakkar, Divy Patel, Denish Kalariya, and Yug Thakkar.
-
-
 > **Problem Definition :**
 
 > Dermatological Issues/disorders are most commonly spread worldwide. This can be caused by various fungal, bacterial, or skin allergies. Effective use of Emerging technologies like AI/ML can recognize such diseases. Computer Vision is one such platform that made the possibility of detecting the cause accurately through Images.The problem here is to develop an Application Programming Interface which can be easily integrated with Android app to detect the skin disease without any physical interaction with a Dermatologist.
@@ -53,30 +50,4 @@ Team Members: Rushabh Thakkar, Divy Patel, Denish Kalariya, and Yug Thakkar.
 > **Video:** [Link to Video](https://youtu.be/bV5bhKFsdYY)
 
 > **APK file:** [Link to APK File](https://drive.google.com/file/d/10DnwVU_na934VCRcrFEpBOYV6pfqOaVp/view?usp=sharing)
-
-
-> **Profiles of team member:** 
-
-- Rushabh Thakkar
-
-[Linkedin](https://www.linkedin.com/in/rushabhthakkar/)
-[Github](https://github.com/rushabh1605)
-[Resume](https://drive.google.com/file/d/1MrEST2m7OiMRPsB-F7QaoezXCIzPOo8W/view?usp=sharing)
-
-- Divy Patel
-
-[Linkedin](www.linkedin.com/in/divy-patel-7b369118b)
-[Github](https://github.com/Divy2000)
-[Resume](https://drive.google.com/file/d/15co1lwJ51Ld9ydJyfPFAF2lXNLlU-3ZA/view?usp=sharing)
-
-- Denish Kalariya
-
-[Linkedin](https://www.linkedin.com/in/denish-kalariya-b22a641ba/)
-[Github](https://github.com/Dk-21)
-[Resume](https://drive.google.com/file/d/1gPyanEH-bpqPr0HxINCMX1v-Ufz2Jbm2/view?usp=sharing)
-
-- Yug Thakkar
-
-[Linkedin](https://www.linkedin.com/in/yug-thakkar-6a0021179/)
-[Github](https://github.com/yugthakkar16)
 
